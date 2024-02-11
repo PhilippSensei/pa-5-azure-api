@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/03751067-6717-419c-a88c-fe75d1fd22dc/resourceGroups/pa-5-zeiterfassung/providers/Microsoft.Web/sites/pa-5-zeiterfassung",
+    "appService.deploySubpath": "."
+}
